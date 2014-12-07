@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sonia9uppal/Sonia-Website-1/issues"
   },
-  "homepage": "https://github.com/sonia9uppal/Sonia-Website-1"
+  "homepage": "https://github.com/sonia9uppal/Sonia-Website-1",
+  "dependencies": {
+    "express": "^4.10.4"
+  }
 }
