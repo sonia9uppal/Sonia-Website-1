@@ -1,0 +1,19 @@
+{
+  "name": "Sonia-Website-1",
+  "version": "1.0.0",
+  "description": "Sonia-Website-1 ===============",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sonia9uppal/Sonia-Website-1.git"
+  },
+  "author": "Sonia Uppal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sonia9uppal/Sonia-Website-1/issues"
+  },
+  "homepage": "https://github.com/sonia9uppal/Sonia-Website-1"
+}
